@@ -21,13 +21,13 @@ Organization structure of this project is as follows:
     - tweet_json.txt
 |- addons/
     - twitter_api.py
-|- scripts/
+|- notebooks/
     - wrangle_act.ipynb
     - wrangle_report.ipynb
-    - wrangle_act.ipynb
+    - act_report.ipynb
 |- reports/
     - wrangle_report.html
-    - wrangle_act.html
+    - act_report.html
 |- README.md
 
 
