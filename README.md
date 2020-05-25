@@ -15,20 +15,24 @@ We are going to perform
 ## Contents:
 Organization structure of this project is as follows:
 
-|- data/
-    - twitter_archive_enhanced.csv
-    - image_predictions.tsv
-    - tweet_json.txt
-|- addons/
-    - twitter_api.py
-|- notebooks/
-    - wrangle_act.ipynb
-    - wrangle_report.ipynb
-    - act_report.ipynb
-|- reports/
-    - wrangle_report.html
-    - act_report.html
-|- README.md
+|-data/
+|-data/twitter_archive_enhanced.csv
+|-data/image_predictions.tsv
+|-data/tweet_json.txt
+|
+|-addons/
+|-addons/twitter_api.py
+|
+|-notebooks/
+|-notebooks/wrangle_act.ipynb
+|-notebooks/wrangle_report.ipynb
+|-notebooks/act_report.ipynb
+|
+|-reports/
+|-reports/wrangle_report.html
+|-reports/act_report.html
+|
+|-README.md
 
 
 ### Key Points:
